@@ -3,7 +3,7 @@ import {View, Text, StyleSheet, Image, TouchableOpacity} from 'react-native';
 
 class ListaFilmes extends Component{
   render(){
-    const {nome, foto} = this.props.data;
+    const {nome, foto, sinopse} = this.props.data;
     return(
       <View>
         
@@ -15,7 +15,7 @@ class ListaFilmes extends Component{
           />
 
           <View style={styles.Areabotao}>
-            <TouchableOpacity style={styles.botao} onPress={()=> alert(nome)}>
+            <TouchableOpacity style={styles.botao} onPress={()=> alert(sinopse)}>
               <Text style={styles.botaoTexto}>LEIA MAIS</Text>
             </TouchableOpacity>
           </View>
