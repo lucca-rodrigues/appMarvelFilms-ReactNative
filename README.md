@@ -2,23 +2,6 @@
 <img src="./screenshot/screenshot.png"/><br>
  <b>App Marvel Films</b> 🦸‍♂️
 </h4>
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ialexanderbrito/be-the-hero.svg">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ialexanderbrito/be-the-hero.svg">
-  
-  <a href="https://github.com/ialexanderbrito/be-the-hero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ialexanderbrito/be-the-hero.svg"></a>
-
-  <a href="https://github.com/ialexanderbrito/be-the-hero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ialexanderbrito/be-the-hero.svg"></a>
-    
-   <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/ialexanderbrito/be-the-hero?label=blue">
- 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red"></a>
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
-</p>
 
 <br>
 
